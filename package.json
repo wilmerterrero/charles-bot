@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/wilmerterrero/charles-bot.git"
   },
+  "type": "module",
   "keywords": [
     "bot"
   ],
