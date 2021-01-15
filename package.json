@@ -1,0 +1,26 @@
+{
+  "name": "charles-bot",
+  "version": "1.0.0",
+  "description": "Bot template for bots want to scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmerterrero/charles-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "wilmerterrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilmerterrero/charles-bot/issues"
+  },
+  "homepage": "https://github.com/wilmerterrero/charles-bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
